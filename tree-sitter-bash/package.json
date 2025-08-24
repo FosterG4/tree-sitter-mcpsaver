@@ -1,8 +1,8 @@
 {
-  "name": "tree-sitter-bash",
+  "name": "tree-sitter-bash-mcpsaver",
   "version": "0.25.0",
   "description": "Bash grammar for tree-sitter",
-  "repository": "https://github.com/tree-sitter/tree-sitter-bash",
+  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "license": "MIT",
   "author": {
     "name": "Max Brunsfeld",

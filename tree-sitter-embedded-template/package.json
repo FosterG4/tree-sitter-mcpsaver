@@ -1,8 +1,8 @@
 {
-  "name": "tree-sitter-embedded-template",
+  "name": "tree-sitter-embedded-template-mcpsaver",
   "version": "0.23.2",
   "description": "Embedded Template (ERB, EJS) grammar for tree-sitter",
-  "repository": "https://github.com/tree-sitter/tree-sitter-embedded-template",
+  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "license": "MIT",
   "author": {
     "name": "Max Brunsfeld",

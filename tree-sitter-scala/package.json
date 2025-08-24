@@ -1,8 +1,8 @@
 {
-  "name": "tree-sitter-scala",
+  "name": "tree-sitter-scala-mcpsaver",
   "version": "0.24.0",
   "description": "Scala grammar for tree-sitter",
-  "repository": "https://github.com/tree-sitter/tree-sitter-scala",
+  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "license": "MIT",
   "author": {
     "name": "Max Brunsfeld",

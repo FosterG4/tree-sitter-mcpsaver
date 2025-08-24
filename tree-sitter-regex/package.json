@@ -1,8 +1,8 @@
 {
-  "name": "tree-sitter-regex",
+  "name": "tree-sitter-regex-mcpsaver",
   "version": "0.24.3",
   "description": "Regex grammar for tree-sitter",
-  "repository": "https://github.com/tree-sitter/tree-sitter-regex",
+  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "license": "MIT",
   "author": {
     "name": "Max Brunsfeld",

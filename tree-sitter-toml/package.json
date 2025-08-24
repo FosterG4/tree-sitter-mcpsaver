@@ -1,5 +1,5 @@
 {
-  "name": "tree-sitter-toml",
+  "name": "tree-sitter-toml-mcpsaver",
   "version": "0.5.1",
   "description": "TOML grammar for tree-sitter",
   "keywords": [
@@ -8,7 +8,7 @@
   ],
   "main": "bindings/node",
   "types": "bindings/node",
-  "repository": "https://github.com/ikatyang/tree-sitter-toml",
+  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "homepage": "https://github.com/ikatyang/tree-sitter-toml#readme",
   "author": {
     "name": "Ika",

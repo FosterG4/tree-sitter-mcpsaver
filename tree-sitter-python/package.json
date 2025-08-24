@@ -1,8 +1,8 @@
 {
-  "name": "tree-sitter-python",
+  "name": "tree-sitter-python-mcpsaver",
   "version": "0.23.7",
   "description": "Python grammar for tree-sitter",
-  "repository": "https://github.com/tree-sitter/tree-sitter-python",
+  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "license": "MIT",
   "author": {
     "name": "Max Brunsfeld",

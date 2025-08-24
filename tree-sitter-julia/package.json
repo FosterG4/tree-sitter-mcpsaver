@@ -1,8 +1,8 @@
 {
-  "name": "tree-sitter-julia",
+  "name": "tree-sitter-julia-mcpsaver",
   "version": "0.23.1",
   "description": "Julia grammar for tree-sitter",
-  "repository": "https://github.com/tree-sitter/tree-sitter-julia",
+  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "license": "MIT",
   "author": {
     "name": "Max Brunsfeld",

@@ -1,8 +1,8 @@
 {
-  "name": "tree-sitter-json",
+  "name": "tree-sitter-json-mcpsaver",
   "version": "0.24.8",
   "description": "JSON grammar for tree-sitter",
-  "repository": "https://github.com/tree-sitter/tree-sitter-json",
+  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "license": "MIT",
   "author": {
     "name": "Max Brunsfeld",
