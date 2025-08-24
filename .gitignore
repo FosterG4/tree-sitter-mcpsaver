@@ -1,0 +1,87 @@
+# Top-level .gitignore for tree-sitter multi-repo workspace
+# Keep source, lockfiles, and configs tracked.
+# Ignore dependency folders, build artifacts, caches, and generated binaries across all packages.
+
+# Node dependencies
+**/node_modules/
+**/.pnp/
+.pnp.*
+
+# Logs
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/pnpm-debug.log*
+**/.pnpm-debug.log*
+**/lerna-debug.log*
+
+# Caches
+**/.cache/
+**/.parcel-cache/
+**/.next/
+**/.nuxt/
+**/.vite/
+**/.eslintcache
+
+# Coverage
+**/coverage/
+**/.nyc_output/
+
+# Build outputs (general)
+**/dist/
+**/build/
+**/out/
+**/Release/
+**/Debug/
+
+# Node-gyp / native addon builds
+**/build/Release/
+**/.node-gyp/
+**/.npm/_logs/
+
+# Prebuilt binaries generated for npm packages (kept out of Git, included in npm via `files`)
+**/prebuilds/**
+
+# Generated binaries and intermediates
+**/*.node
+**/*.wasm
+**/*.dylib
+**/*.so
+**/*.dll
+**/*.o
+**/*.obj
+**/*.a
+**/*.lib
+**/*.lo
+**/*.la
+**/*.exp
+**/*.pdb
+**/*.ilk
+
+# Temporary files
+**/*.tmp
+**/*.temp
+**/~*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors/IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Archives and packs
+**/*.tgz
+**/*.zip
+**/*.tar
+**/*.tar.gz
+
+# Misc
+**/.DS_Store
+**/.env.local
+# Keep env samples tracked; do not ignore .env.example by default.
