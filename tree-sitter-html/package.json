@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-html-mcpsaver",
-  "version": "0.23.2",
+  "version": "0.23.3",
   "description": "HTML grammar for tree-sitter",
   "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "license": "MIT",

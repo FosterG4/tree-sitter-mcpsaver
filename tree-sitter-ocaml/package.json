@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-ocaml-mcpsaver",
-  "version": "0.25.0",
+  "version": "0.25.1",
   "description": "OCaml grammar for tree-sitter",
   "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "license": "MIT",

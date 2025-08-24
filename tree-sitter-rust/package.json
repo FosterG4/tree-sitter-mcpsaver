@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-rust-mcpsaver",
-  "version": "0.24.0",
+  "version": "0.24.1",
   "description": "Rust grammar for tree-sitter",
   "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "license": "MIT",

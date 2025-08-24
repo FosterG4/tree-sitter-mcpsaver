@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-c-mcpsaver",
-  "version": "0.24.1",
+  "version": "0.24.2",
   "description": "C grammar for tree-sitter",
   "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "license": "MIT",

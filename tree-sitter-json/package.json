@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-json-mcpsaver",
-  "version": "0.24.8",
+  "version": "0.24.9",
   "description": "JSON grammar for tree-sitter",
   "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "license": "MIT",

@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-toml-mcpsaver",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "TOML grammar for tree-sitter",
   "keywords": [
     "parser",

@@ -1,6 +1,6 @@
 {
   "name": "tree-sitter-go-mcpsaver",
-  "version": "0.23.4",
+  "version": "0.23.5",
   "description": "Go grammar for tree-sitter",
   "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "license": "MIT",
