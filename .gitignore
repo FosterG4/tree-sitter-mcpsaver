@@ -8,7 +8,7 @@
 .pnp.*
 
 # Logs
-**/npm-debug.log*
+**/npm-debug.log*j
 **/yarn-debug.log*
 **/yarn-error.log*
 **/pnpm-debug.log*

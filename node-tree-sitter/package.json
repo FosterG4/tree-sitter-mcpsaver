@@ -1,20 +1,20 @@
 {
-  "name": "tree-sitter",
+  "name": "tree-sitter-mcpsaver",
   "version": "0.25.0",
   "description": "Node.js bindings to the Tree-sitter parsing library",
-  "repository": "http://github.com/tree-sitter/node-tree-sitter",
+  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
   "publishConfig": {
     "access": "public"
   },
   "license": "MIT",
   "author": {
-    "name": "Max Brunsfeld",
-    "email": "maxbrunsfeld@gmail.com"
+    "name": "diki",
+    "email": "dikkyhardian@gmail.com"
   },
   "maintainers": [
     {
-      "name": "Amaan Qureshi",
-      "email": "amaanq12@gmail.com"
+      "name": "diki",
+      "email": "dikkyhardian@gmail.com"
     }
   ],
   "contributors": [
