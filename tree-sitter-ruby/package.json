@@ -1,12 +1,12 @@
 {
-  "name": "tree-sitter-ruby-mcpsaver",
+  "name": "tree-sitter-ruby",
   "version": "0.23.1",
   "description": "Ruby grammar for tree-sitter",
-  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
+  "repository": "https://github.com/tree-sitter/tree-sitter-ruby",
   "license": "MIT",
   "author": {
-    "name": "diki",
-    "email": "dikkyhardian@gmail.com"
+    "name": "Rob Rix",
+    "email": "rob.rix@gmail.com"
   },
   "contributors": [
     {
@@ -28,8 +28,8 @@
   ],
   "maintainers": [
     {
-      "name": "diki",
-      "email": "dikkyhardian@gmail.com"
+      "name": "Amaan Qureshi",
+      "email": "amaanq12@gmail.com"
     }
   ],
   "main": "bindings/node",

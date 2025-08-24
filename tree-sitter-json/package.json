@@ -1,17 +1,17 @@
 {
-  "name": "tree-sitter-json-mcpsaver",
+  "name": "tree-sitter-json",
   "version": "0.24.8",
   "description": "JSON grammar for tree-sitter",
-  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
+  "repository": "https://github.com/tree-sitter/tree-sitter-json",
   "license": "MIT",
   "author": {
-    "name": "diki",
-    "email": "dikkyhardian@gmail.com"
+    "name": "Max Brunsfeld",
+    "email": "maxbrunsfeld@gmail.com"
   },
   "maintainers": [
     {
-      "name": "diki",
-      "email": "dikkyhardian@gmail.com"
+      "name": "Amaan Qureshi",
+      "email": "amaanq12@gmail.com"
     }
   ],
   "main": "bindings/node",

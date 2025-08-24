@@ -1,17 +1,17 @@
 {
-  "name": "tree-sitter-bash-mcpsaver",
+  "name": "tree-sitter-bash",
   "version": "0.25.0",
   "description": "Bash grammar for tree-sitter",
-  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
+  "repository": "https://github.com/tree-sitter/tree-sitter-bash",
   "license": "MIT",
   "author": {
-    "name": "diki",
-    "email": "dikkyhardian@gmail.com"
+    "name": "Max Brunsfeld",
+    "email": "maxbrunsfeld@gmail.com"
   },
   "maintainers": [
     {
-      "name": "diki",
-      "email": "dikkyhardian@gmail.com"
+      "name": "Amaan Qureshi",
+      "email": "amaanq12@gmail.com"
     }
   ],
   "main": "bindings/node",

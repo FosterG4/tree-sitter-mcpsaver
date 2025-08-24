@@ -1,12 +1,12 @@
 {
-  "name": "tree-sitter-java-mcpsaver",
+  "name": "tree-sitter-java",
   "version": "0.23.5",
   "description": "Java grammar for tree-sitter",
-  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
+  "repository": "https://github.com/tree-sitter/tree-sitter-java",
   "license": "MIT",
   "author": {
-    "name": "diki",
-    "email": "dikkyhardian@gmail.com"
+    "name": "Ayman Nadeem",
+    "email": "aymannadeem@github.com"
   },
   "contributors": [
     {
@@ -20,8 +20,8 @@
   ],
   "maintainers": [
     {
-      "name": "diki",
-      "email": "dikkyhardian@gmail.com"
+      "name": "Amaan Qureshi",
+      "email": "amaanq12@gmail.com"
     }
   ],
   "main": "bindings/node",
