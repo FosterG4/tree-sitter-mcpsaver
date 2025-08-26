@@ -1,3 +1,5 @@
 {
-  "main": "../../bindings/node/ocaml"
+  "main": "../../bindings/node/ocaml",
+  "name": "",
+  "version": ""
 }

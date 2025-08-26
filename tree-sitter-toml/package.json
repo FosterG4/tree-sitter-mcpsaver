@@ -8,7 +8,10 @@
   ],
   "main": "bindings/node",
   "types": "bindings/node",
-  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FosterG4/tree-sitter-mcpsaver.git"
+  },
   "homepage": "https://github.com/ikatyang/tree-sitter-toml#readme",
   "author": {
     "name": "Ika",

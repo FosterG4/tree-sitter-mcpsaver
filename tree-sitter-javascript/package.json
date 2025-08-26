@@ -2,7 +2,10 @@
   "name": "tree-sitter-javascript-mcpsaver",
   "version": "0.23.2",
   "description": "JavaScript grammar for tree-sitter",
-  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FosterG4/tree-sitter-mcpsaver.git"
+  },
   "license": "MIT",
   "author": {
     "name": "Max Brunsfeld",
@@ -34,13 +37,14 @@
   ],
   "dependencies": {
     "node-addon-api": "^8.5.0",
-    "node-gyp-build": "^4.8.4"
+    "node-gyp-build": "^4.8.4",
+    "pnpm": "^10.15.0"
   },
   "devDependencies": {
     "eslint": "^9.34.0",
     "eslint-config-treesitter": "^1.0.2",
-    "tree-sitter-cli": "^0.25.8",
-    "prebuildify": "^6.0.1"
+    "prebuildify": "^6.0.1",
+    "tree-sitter-cli": "^0.25.8"
   },
   "peerDependencies": {
     "tree-sitter": "^0.25.0"

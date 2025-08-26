@@ -15,7 +15,10 @@
     "test": "./scripts/test-with-memcheck.sh",
     "prebuildify": "prebuildify --napi --strip"
   },
-  "repository": "https://github.com/FosterG4/tree-sitter-mcpsaver",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FosterG4/tree-sitter-mcpsaver.git"
+  },
   "tree-sitter": [
     {
       "scope": "source.swift",

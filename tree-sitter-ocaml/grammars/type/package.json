@@ -1,3 +1,5 @@
 {
-  "main": "../../bindings/node/type"
+  "main": "../../bindings/node/type",
+  "name": "",
+  "version": ""
 }
