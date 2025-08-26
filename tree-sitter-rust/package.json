@@ -8,19 +8,9 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Maxim Sokolov",
-    "email": "maxim0xff@gmail.com"
+    "name": "mcpsaver",
+    "email": "dikkyhardian@gmail.com"
   },
-  "contributors": [
-    {
-      "name": "Max Brunsfeld",
-      "email": "maxbrunsfeld@gmail.com"
-    },
-    {
-      "name": "Amaan Qureshi",
-      "email": "amaanq12@gmail.com"
-    }
-  ],
   "main": "bindings/node",
   "types": "bindings/node",
   "keywords": [

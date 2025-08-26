@@ -8,8 +8,8 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Sam Lanning",
-    "email": "sam@samlanning.com"
+    "name": "mcpsaver",
+    "email": "dikkyhardian@gmail.com"
   },
   "main": "bindings/node",
   "types": "bindings/node",

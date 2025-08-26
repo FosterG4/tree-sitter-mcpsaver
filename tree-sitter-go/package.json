@@ -8,15 +8,9 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Max Brunsfeld",
-    "email": "maxbrunsfeld@gmail.com"
+    "name": "mcpsaver",
+    "email": "dikkyhardian@gmail.com"
   },
-  "maintainers": [
-    {
-      "name": "Amaan Qureshi",
-      "email": "amaanq12@gmail.com"
-    }
-  ],
   "main": "bindings/node",
   "types": "bindings/node",
   "keywords": [

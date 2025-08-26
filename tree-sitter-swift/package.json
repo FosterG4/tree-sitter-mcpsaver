@@ -45,7 +45,10 @@
     "scripts/*",
     "src/**"
   ],
-  "author": "Alex Pinkus <alex.pinkus@gmail.com>",
+  "author": {
+    "name": "mcpsaver",
+    "email": "dikkyhardian@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/alex-pinkus/tree-sitter-swift/issues"

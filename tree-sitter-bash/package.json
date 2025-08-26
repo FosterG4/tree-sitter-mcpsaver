@@ -8,15 +8,9 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Max Brunsfeld",
-    "email": "maxbrunsfeld@gmail.com"
+    "name": "mcpsaver",
+    "email": "dikkyhardian@gmail.com"
   },
-  "maintainers": [
-    {
-      "name": "Amaan Qureshi",
-      "email": "amaanq12@gmail.com"
-    }
-  ],
   "main": "bindings/node",
   "types": "bindings/node",
   "keywords": [
@@ -37,13 +31,15 @@
   ],
   "dependencies": {
     "node-addon-api": "^8.5.0",
-    "node-gyp-build": "^4.8.4"
+    "node-gyp-build": "^4.8.4",
+    "pm": "^2.2.6",
+    "pm2": "^6.0.8"
   },
   "devDependencies": {
     "eslint": "^9.34.0",
     "eslint-config-treesitter": "^1.0.2",
-    "tree-sitter-cli": "^0.25.8",
-    "prebuildify": "^6.0.1"
+    "prebuildify": "^6.0.1",
+    "tree-sitter-cli": "^0.25.8"
   },
   "peerDependencies": {
     "tree-sitter": "^0.25.0"

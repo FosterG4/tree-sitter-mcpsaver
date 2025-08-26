@@ -8,20 +8,9 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Rick Winfrey"
+    "name": "mcpsaver",
+    "email": "dikkyhardian@gmail.com"
   },
-  "contributors": [
-    {
-      "name": "Max Brunsfeld",
-      "email": "maxbrunsfeld@gmail.com"
-    },
-    {
-      "name": "Owen Shepherd"
-    },
-    {
-      "name": "Torsten Schmits"
-    }
-  ],
   "main": "bindings/node",
   "types": "bindings/node",
   "keywords": [

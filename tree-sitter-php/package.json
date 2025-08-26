@@ -7,31 +7,11 @@
     "url": "git+https://github.com/FosterG4/tree-sitter-mcpsaver.git"
   },
   "license": "MIT",
-  "author": "Josh Vera",
-  "contributors": [
-    {
-      "name": "Max Brunsfeld",
-      "email": "maxbrunsfeld@gmail.com"
-    },
-    {
-      "name": "Amaan Qureshi",
-      "email": "amaanq12@gmail.com"
-    },
-    {
-      "name": "Caleb White",
-      "email": "cdwhite3@pm.me"
-    },
-    {
-      "name": "Christian Frøystad",
-      "email": "christian@xist.no"
-    }
-  ],
-  "maintainers": [
-    {
-      "name": "Amaan Qureshi",
-      "email": "amaanq12@gmail.com"
-    }
-  ],
+  "author": {
+    "name": "mcpsaver",
+    "email": "dikkyhardian@gmail.com"
+  },
+  
   "main": "bindings/node",
   "types": "bindings/node",
   "keywords": [

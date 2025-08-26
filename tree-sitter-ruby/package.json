@@ -8,33 +8,9 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Rob Rix",
-    "email": "rob.rix@gmail.com"
+    "name": "mcpsaver",
+    "email": "dikkyhardian@gmail.com"
   },
-  "contributors": [
-    {
-      "name": "Timothy Clem",
-      "email": "timothy.clem@gmail.com"
-    },
-    {
-      "name": "Max Brunsfeld",
-      "email": "maxbrunsfeld@gmail.com"
-    },
-    {
-      "name": "Arthur Baars",
-      "email": "aibaars@github.com"
-    },
-    {
-      "name": "Amaan Qureshi",
-      "email": "amaanq12@gmail.com"
-    }
-  ],
-  "maintainers": [
-    {
-      "name": "Amaan Qureshi",
-      "email": "amaanq12@gmail.com"
-    }
-  ],
   "main": "bindings/node",
   "types": "bindings/node",
   "keywords": [

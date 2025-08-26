@@ -6,10 +6,13 @@
   "scripts": {
     "test": "npm install && node index.js"
   },
-  "author": "",
+  "author": {
+    "name": "mcpsaver",
+    "email": "dikkyhardian@gmail.com"
+  },
   "license": "MIT",
   "dependencies": {
-    "tree-sitter": "^0.22.1",
+    "tree-sitter": "^0.25.0",
     "tree-sitter-swift": "file:../"
   }
 }

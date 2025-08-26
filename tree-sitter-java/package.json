@@ -8,25 +8,9 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Ayman Nadeem",
-    "email": "aymannadeem@github.com"
+    "name": "mcpsaver",
+    "email": "dikkyhardian@gmail.com"
   },
-  "contributors": [
-    {
-      "name": "Max Brunsfeld",
-      "email": "maxbrunsfeld@gmail.com"
-    },
-    {
-      "name": "Amaan Qureshi",
-      "email": "amaanq12@gmail.com"
-    }
-  ],
-  "maintainers": [
-    {
-      "name": "Amaan Qureshi",
-      "email": "amaanq12@gmail.com"
-    }
-  ],
   "main": "bindings/node",
   "types": "bindings/node",
   "keywords": [
